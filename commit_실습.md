@@ -14,8 +14,8 @@
 
 2. 터미널 명령어 `cd .`은 현재 위치의 부모 폴더로 이동하라는 의미이다. (맞으면 O, 틀리면 X)
 
-   - 답 : 
-   - 이유 : /ctl S-> git add ->git commit -m "" -> git add 
+   - 답 : 아니다
+   - 이유 : 현재 수행중인 폴더로 /ctl S-> git add ->git commit -m "" -> git add 
 
 
 
